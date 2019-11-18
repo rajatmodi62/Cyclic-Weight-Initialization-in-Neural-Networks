@@ -1,4 +1,3 @@
-# Cyclic-Weight-Initialization-in-Neural-Networks
 
 # Background
 FastAI lecture 1 [Pets Classification] had shown that there is a decrease in the
