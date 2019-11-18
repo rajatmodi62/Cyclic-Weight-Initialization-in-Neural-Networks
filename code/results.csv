@@ -1,0 +1,10 @@
+,Pretrained Weights,,,,Without Pretrained Weights,,,,"Cyclic Weight, Alpha=1",,,
+Model,Full Network,,Last layer,,Full Network,,Last layer,,Full Network,,Last layer,
+,,,,,,,,,,,,
+,Epochs for reaching highest val score,Val,Epochs for reaching highest val score,Val,Epochs for reaching highest val score,Val,Epochs for reaching highest val score,Val,Epochs for reaching highest val score,Val,Epochs for reaching highest val score,Val
+,,,,,,,,,,,,
+Resnet18,355,0.960784,7,0.9739,3,0.705882,NA,NA,6,0.973856,NA,NA
+Resnet34,3,0.960784,4,0.96732,7,0.72549,NA,NA,47,0.973856,NA,NA
+Resnet50,6,0.960784,98,0.960784,9,0.69281,NA,NA,3,0.960784,NA,NA
+Resnet101,1,0.954248,75,0.96732,14,0.633987,NA,NA,9,0.960784,NA,NA
+Resnet152,2,0.973856,42,0.980392,59,0.719,NA,NA,107,0.980392,NA,NA
