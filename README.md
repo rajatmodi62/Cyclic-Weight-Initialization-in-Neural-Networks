@@ -22,4 +22,4 @@ Rather than making the changes to the gradient descent equation at each iteratio
 # Results 
 Training a subset of ImageNet dataset (11 classes) reaches a peak accuracy of 98.3% as compared to 97.2% obtained by freezing the pretrained layers. 
 
-The dataset & pretrained weights of our Resnet can be found [here](https://drive.google.com/open?id=1gaIZDIp1mwjpdwyCltBE4eHjNVLQQcn_)
+The dataset & pretrained weights of our Resnet models can be found [here](https://drive.google.com/open?id=1gaIZDIp1mwjpdwyCltBE4eHjNVLQQcn_)
