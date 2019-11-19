@@ -7,7 +7,7 @@ An alternate way has been to tune the last layer only.
 # Our Approach
 
 We propose the following algorithm to overcome this issue:
-
+```
 Start
 - Load the network with pretrained weights 
 - For each epoch
@@ -16,7 +16,7 @@ Start
     Weights at any layer= Pretrained weights + current*weights- alpha*gradients 
     end
    end
-
+```
 Rather than making the changes to the gradient descent equation at each iteration, we also experiment with the weight averaging at each epoch. 
 
 # Results 
